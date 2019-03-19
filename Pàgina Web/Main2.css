@@ -1,0 +1,13 @@
+body {
+	background: grey;
+	font-family: arial;
+	color: black;
+}
+
+h1, h2 {
+	color: navy;
+}
+
+.titol_principal {
+	color: white;
+}
